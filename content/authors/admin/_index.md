@@ -1,39 +1,35 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Raymond Warner
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: University of Pennsylvania, Perelman School of Medicine
+  url: https://www.med.upenn.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests focus on observing structure/function relationships in the human eye. Specifically, my research utilizing diffraction-limited optical systems with the implementation of Adaptive Optics to image photoreceptors noninvasively.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Retinal Imaging
+- Image Processing and Analysis
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Vision Science
+    institution: Indiana University
+    year: 2020
+  - course: BS in Neuroscience
+    institution: University of Nevada, Reno
+    year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
