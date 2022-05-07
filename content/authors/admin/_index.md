@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Raymond Warner
+title: Raymond L. Warner
 
 # Is this the primary user of the site?
 superuser: true
@@ -18,8 +18,9 @@ bio: My research interests focus on observing structure/function relationships i
 
 # Interests to show in About widget
 interests:
-- Retinal Imaging
+- Adaptive Optics Imaging of the Retina
 - Image Processing and Analysis
+- Visual Processing
 
 # Education to show in About widget
 education:
@@ -38,26 +39,28 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  #link: '/#contact'
+  link: 'mailto:raymond.warner@pennmedicine.upenn.edu'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/RaymondWarner56
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F4Vg6RToJOSXPdU0Y3ss9Ac1dfx7ylsTaomGo9sX1nN3KbxNsZCbZIcLcz4cKKW8kDE8Dk2bdPnODPombP_NEBj4_OQiw&user=EsveMu0AAAAJ
+#- icon: github
+ # icon_pack: fab
+  #link: https://github.com/gcushen
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/raymond-warner-ph-d-64853091/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: media/resume.pdf
+ - icon: cv
+   icon_pack: ai
+   link: [RWarner_CV.pdf](https://github.com/raylwarn/CV-Website/files/8645720/RWarner_CV.pdf)
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -66,8 +69,7 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a postdoctoral research in Jessica I.W. Morgan's Retinal Imaging Lab at the University of Pennsylvania, School of Medicine. My research interests include imaging structure/function relationships in the human retina. Currently, I am investigating the aggregate and single-cone photoreceptor function in a normative population.  
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "[RWarner_CV.pdf](https://github.com/raylwarn/CV-Website/files/8645735/RWarner_CV.pdf)" "newtab" >}}resumé{{< /staticref >}}.
