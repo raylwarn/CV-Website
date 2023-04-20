@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Raymond L. Warner
+title:Raymond L. Warner
 
 # Is this the primary user of the site?
 superuser: true
