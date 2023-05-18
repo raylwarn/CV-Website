@@ -14,7 +14,8 @@ organizations:
   url: https://www.med.upenn.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests focus on observing structure/function relationships in the human eye. Specifically, my research utilizing diffraction-limited optical systems with the implementation of Adaptive Optics to image photoreceptors noninvasively.
+bio: 
+My research interests focus on observing structure/function relationships in the human eye. Specifically, my research utilizing diffraction-limited optical systems with the implementation of Adaptive Optics to image photoreceptors noninvasively.
 
 # Interests to show in About widget
 interests:
